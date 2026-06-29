@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./WhatsApp Image 2026-06-29 at 21.31.32.jpeg" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Pratiksha Ghonagde</h1>
 <h3 align="center">A passionate java full stack developer from India</h3>
 <img align="right"alt="coding"width="400"src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
